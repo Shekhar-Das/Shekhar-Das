@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [DreamOnline Limited](https://dreamonline.com.bd/)
+I'm a Software Engineer at [DreamOnline Limited](https://dreamonline.com.bd/)
 
 - 🔭 I’m currently working on [eBidyaloy](https://play.google.com/store/apps/details?id=com.dol.ebidyaloy)
 - 🌱 I’m working with Swift, SwiftUI and UIKit.  
