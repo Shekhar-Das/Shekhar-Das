@@ -3,7 +3,7 @@
 I'm a Software Engineer at [DreamOnline Limited](https://dreamonline.com.bd/)
 
 - 🔭 I’m currently working on [eBidyaloy](https://apps.apple.com/us/app/ebidyaloy-learning-platform/id1642474911)
-- 🌱 I’m working with Swift, SwiftUI , UIKit , Objective C.  
+- 🌱 I’m working with Swift, SwiftUI , UIKit and Objective C.  
 - 💞️ I’m looking to collaborate on open source projects
 - 💬 Ask me about Swift and SwiftUI
 
