@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Shekhar-Das/Shekhar-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer at [DreamOnline Limited](https://dreamonline.com.bd/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [eBidyaloy](https://play.google.com/store/apps/details?id=com.dol.ebidyaloy)
+- 🌱 I’m working with Swift, SwiftUI and UIKit.  
+- 💞️ I’m looking to collaborate on open source projects
+- 💬 Ask me about Swift and SwiftUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![stats](https://github-readme-stats.vercel.app/api?username=Shekhar-Das&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
+
+<!---
+Shekhar-Das/Shekhar-Das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
